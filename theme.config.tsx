@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>LirixAI</span>,
   project: {
-    link: 'https://github.com/tanishqsrivastavaa/LirixAI',
+    link: 'https://github.com/tanishqsrivastavaa/LirixAIi',
   },
   chat: {
     link: 'https://discord.gg/CjhC2Zb2',
