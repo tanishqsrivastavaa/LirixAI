@@ -3,16 +3,16 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>LirixAI</span>,
-  siteTitle: "LirixAI Documentation",  // Sets the title for all pages
+  siteTitle: 'LirixAI Documentation',
   project: {
     link: 'https://github.com/tanishqsrivastavaa/LirixAI',
   },
   chat: {
     link: 'https://discord.gg/CjhC2Zb2',
   },
-  docsRepositoryBase: 'https://github.com/tanishqsrivastavaa/LirixAI',  // Updated repo link
+  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: '© 2025 LirixAI. All rights reserved.',
+    text: 'Lirix-AI (C) 2025',
   },
 }
 
