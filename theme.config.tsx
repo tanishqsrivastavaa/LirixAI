@@ -4,10 +4,10 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>LirixAI</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/tanishqsrivastavaa/LirixAI',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/CjhC2Zb2',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
