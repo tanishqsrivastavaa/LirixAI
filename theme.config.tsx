@@ -3,7 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>LirixAI</span>,
-  siteTitle: 'LirixAI Documentation', //testing
+  //testing
   project: {
     link: 'https://github.com/tanishqsrivastavaa/LirixAI',
   },
