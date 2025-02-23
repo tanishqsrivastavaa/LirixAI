@@ -9,9 +9,9 @@
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "PyPi ↗",
     "type": "page",
-    "href": "https://discord.gg/JaNnz3tK",
+    "href": "https://pypi.org/project/lirixai/",
     "newWindow": true
   }
 }
